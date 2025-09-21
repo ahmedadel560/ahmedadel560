@@ -48,7 +48,7 @@ I create modern web apps, AI-powered solutions, and educational content on YouTu
 
 <h3 align="center">🌐 Find me on</h3>
 <p align="center">
-<a href="https://github.com/ahmedadel" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="www.linkedin.com/in/احمدعادل-عادل-13337b202" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/ahmed-adel" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> 
 <a href="https://www.youtube.com/@yourchannel" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=red" /></a>
 </p>
