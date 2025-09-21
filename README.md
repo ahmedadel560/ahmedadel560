@@ -5,6 +5,7 @@
 <br>
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 I'm a <b>Web Developer</b> 💻 and <b>AI Engineer</b> 🤖 from <b>Egypt</b> 🇪🇬.<br>
+  <b>content creator on youtube and instagram about technology and AI cotnent</b>
 I create modern web apps, AI-powered solutions, and educational content on YouTube 📺.
 </p>
 <br>
